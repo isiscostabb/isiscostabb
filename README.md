@@ -1,5 +1,4 @@
-![banner github](https://github.com/isiscostabb/isiscostabb/assets/138714743/a4d8f530-2bc0-4232-bb24-7e3e7fa79b64)
-
+![banner github 2](https://github.com/isiscostabb/isiscostabb/assets/138714743/74fb65db-ab9e-4379-a259-ed2d60f9efe0)
 
 **FERRAMENTAS & TECNOLOGIAS FRONT-END**
 
