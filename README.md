@@ -1,4 +1,5 @@
-![banner github 2](https://github.com/isiscostabb/isiscostabb/assets/138714743/74fb65db-ab9e-4379-a259-ed2d60f9efe0)
+![banner github](https://github.com/isiscostabb/isiscostabb/assets/138714743/7ddf6129-5c4d-44d2-916f-9220b81f790e)
+
 
 **FERRAMENTAS & TECNOLOGIAS FRONT-END**
 
@@ -11,3 +12,4 @@
 **FERRAMENTAS & TECNOLOGIAS DB**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width='40' height='40' />
+
