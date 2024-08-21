@@ -5,7 +5,7 @@
  <br/>
  <br/>
 
- <p>ferramentas e tecnlogias:<p/>
+## FERRAMENTAS E TECNOLOGIAS:
 
 <img src="https://github.com/user-attachments/assets/89bc569f-796a-4c6d-9505-fa45138f91afd" height='40' border-radius='10px'/> 
 <img src="https://github.com/user-attachments/assets/66a3d623-e5bb-42c6-8a12-d5e2ef14eead" height='40' border-radius='10px'/> 
