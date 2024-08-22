@@ -1,4 +1,4 @@
-![banner gif](https://github.com/user-attachments/assets/47c9d599-94cc-428b-aef8-6b37c35b1606)
+![banner gif cut](https://github.com/user-attachments/assets/0c0117f8-4d61-4e8f-9644-c57ecdc37f40)
 ---
  <p align="center">estudante de engenharia de software da quarta fase na UniSatc<p/>
 
