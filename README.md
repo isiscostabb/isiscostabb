@@ -6,7 +6,7 @@
 
  <p>Atualmente estudando sobre <strong>MACHINE LEARNING</strong> usando Python e bibliotecas como pandas e sklearn;<p/>
  <p>Estudando em <strong>BACK-END</strong> a linguagem Java, utilizando Maven e o framewotk Spring;<p/>
- <p>Desenvolvendo em <strong>PROJERO INTEGRADOR: WEB</strong> um jogo de perguntas escolar.<p/>
+ <p>Desenvolvendo em <strong>PROJERO INTEGRADOR: WEB</strong> um jogo de perguntas escolares<p/>
   
  <br/>
  
