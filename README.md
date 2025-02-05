@@ -1,6 +1,6 @@
 ![banner gif cut](https://github.com/user-attachments/assets/0c0117f8-4d61-4e8f-9644-c57ecdc37f40)
 ---
- <p align="center">estudante de engenharia de software da quarta fase na UniSatc<p/>
+ <p align="center"><p/>
 
  <br/>
  
